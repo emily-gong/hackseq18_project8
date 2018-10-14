@@ -1,1 +1,0 @@
-> survivors <- data[data$Element == "Number of survivors at age x (lx)",]
